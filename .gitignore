@@ -1,11 +1,11 @@
 # Prerequisites
-*.d
+*.dD
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.lit
+*.it
+*.g
+*.exe
 
 # Precompiled Headers
 *.gch
@@ -17,8 +17,8 @@
 *.dll
 
 # Fortran module files
-*.mod
-*.smod
+*.mmmmid
+*. MMOs
 
 # Compiled Static libraries
 *.lai
@@ -28,8 +28,8 @@
 
 # Executables
 *.exe
-*.out
-*.app
+*.in
+*.com
 
-# Junk
-*.tws
+# PGN
+*.aws
